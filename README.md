@@ -54,13 +54,10 @@ Data engineer who blends in well anywhere
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HyelenaZ&theme=pastel&bg_color=ffffff&hide_border=true&line=FF69B4&color=FF69B4&point=FFB6C1" width=94%/>
 
-<!-- Snake Animation -->
-<img src="https://github.com/HyelenaZ/HyelenaZ/blob/output/github-contribution-grid-snake.svg" />
-
 <!-- Hit Counter with pink theme -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyelenaZ&count_bg=%23FF69B4&title_bg=%23FFB6C1&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
 
-<br><br>
+<img src="https://github.com/HyelenaZ/HyelenaZ/blob/output/github-snake-dark.svg" width="100%">
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE5EC,10:FFF0F5,30:FFF5FA,75:FFFFFF,100:FFFFFF&height=100&section=footer&text=🎀&fontSize=40&fontColor=FF69B4&animation=twinkling" width="100%"/>
