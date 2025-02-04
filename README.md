@@ -9,7 +9,7 @@
 <div align="left">
 <br>
 
-> *"A passionate Backend Engineer with a love for clean code and puppies 🐕"*
+> *"A passionate 🐕"*
 <br><br>
 </div>
 
