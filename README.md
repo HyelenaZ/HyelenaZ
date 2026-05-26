@@ -2,10 +2,10 @@
 
 # 🌸 Hyojin Kim
 
-### Data Analyst & Backend Developer
+### Data Analyst
 
 <p>
-데이터를 분석하고 인사이트를 기록하는 개발자입니다 📊
+데이터를 분석하고 인사이트를 기록하는 사람입니다 📊
 </p>
 
 <br>
